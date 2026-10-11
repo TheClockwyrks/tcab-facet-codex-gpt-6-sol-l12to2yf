@@ -1,0 +1,11 @@
+[[media]]
+file = "chain.json.gz"
+name = "A prism sets off a chain"
+
+[[media]]
+file = "board.png"
+name = "Seven stones on the board"
+
+[[media]]
+file = "title.png"
+name = "Facet title screen"
